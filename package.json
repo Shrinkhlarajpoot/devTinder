@@ -1,0 +1,21 @@
+{
+  "name": "devtinder_backend",
+  "version": "1.0.0",
+  "description": "A tinder-dev for connecting the developers",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+
+  },
+  "keywords": [
+    "Node.js",
+    "Expree.js",
+    "Mongo.db"
+  ],
+  "author": "Shrinkhla Rajpoot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
